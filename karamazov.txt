@@ -1,0 +1,91 @@
+== Résumé == 
+
+Considéré par plusieurs comme un chef-d'œuvre et reconnu comme le 
+plus grand roman de Dostoïevski, '''''Les frères Karamazov''''' est 
+difficilement résumable. Autour d'une intrigue hamletienne absolument tragique, 
+la narration principale se double d'anecdotes puissantes en symboles (par ex., 
+le fils mort né de Grigori Vassiliévitch ; la vie du Starets Zossima ; la mort 
+d'Illioucha Snéguiriov dont le père, certes alcoolique, est l'envers de Fiodor 
+Pavlovitch Karamazov en ce sens qu'il aime son fils...), de nombreuses histoires 
+en lien avec le récit central (autour, notamment, du personnage de Grouchenka -
+femme complexe en vérité qui cristallise la rivalité entre Dmitri Fiodorovitch 
+et son père qui s'en éprennent tous deux - ou de la ridicule et "moderne" Mme 
+Khokhlakova dont la fille, Lisa, pour le moins taciturne et souffrante et hésite 
+entre bien et mal) et de réflexions métaphysiques autour de la question de Dieu 
+et du Diable, du bien et du mal et, bien sûr, de la rédemption.
+
+L'intrigue principale de ce roman raconte l'histoire des 3 fils d'un homme 
+violent, vulgaire et sans principe (Fiodor Pavlovitch Karamazov), et du 
+parricide commis par l'un d'entre eux (en vérité, les fils sont probablement 4 
+puisque le père, violeur présumé d'une simple d'esprit - Lizavéta la puante -, 
+donne naissance à un bâtard qu'il nommera Smerdiakov, du verbe smerdit (puer, en 
+russe), et dont il fera son domestique). Chacun des trois représente un idéal-
+type de la société russe de la fin du {{s-|XIX|e}} : Alexeï (surnommé Aliocha), 
+le benjamin, est un homme de foi ; Ivan, le cadet, est un intellectuel 
+matérialiste qui pose la question de savoir si, Dieu n'existant pas, tout est 
+permis (tous deux sont nés d'une mystique surnommée "la Hurleuse", Sofia 
+Ivanovna); Dimitri (ou Mitia), leur très exalté demi-frère aîné, est un homme de 
+vice et de passion qui toutefois ne s'avèrera pas si mauvais que ça, incarnant, 
+selon l'auteur lui-même, "l'homme russe". L'univers décrit dans ce livre est 
+assez vaste, comptant des dizaines de personnages dans le village de S. dont le 
+nom, à effet comique selon Markowicz, n'est révélé que vers la fin du livre (P. 
+436 en édition Babel).
+
+Le récit contient un autre récit, deuxième partie, livre V, chapitre V, intitulé 
+[[Le Grand Inquisiteur]]. Il relate une rencontre en Espagne, à la Renaissance, 
+entre un évêque, haute figure de l'Inquisition espagnole, et Jésus, le premier 
+reprochant au second sa venue, qui vient "déranger" l'Église. Ce récit, fait par 
+Ivan (athée convaincu) à son frère Aliocha (moine orthodoxe en devenir), expose 
+la thèse d'Ivan selon laquelle Jésus, en résistant à la tentation de la 
+puissance, et laissant ainsi l'homme libre de choisir de croire ou non, s'est 
+trompé sur la nature humaine et a rendu l'homme malheureux ; en effet, selon 
+Ivan, l'homme n'est pas un Dieu, et c'est pour cela qu'il ne déteste rien plus 
+que la liberté. L'évêque du récit représente l'Église toute-puissante qui a 
+continué l'œuvre du Christ mais en la dévoyant, c'est-à-dire en reprenant cette 
+liberté à l'homme qui, selon lui, s'en trouve bien plus heureux.
+
+La religion orthodoxe est également l'un des protagonistes du roman à travers 
+les personnages athées (Ivan, Kolia Krassotkine - au moins au début - et 
+Rakitine) et ceux qui croient pieusement (Aliocha, Zossima, les hiéromoines du 
+Monastère comme le Père Païssy, etc).
+
+[[Sigmund Freud|Freud]] dira de cet ouvrage qu'il s'agit du "roman le plus 
+imposant qu'on ait jamais écrit" (''Dostoïevski et le parricide'').
+
+
+
+=== Première partie ===
+* '''Livre premier : Histoire d’une famille'''
+** I. Fiodor Pavlovitch Karamazov
+** II. Karamazov se débarrasse de son premier fils
+** III. Second mariage et nouveaux enfants
+** IV. Le troisième fils : Aliocha
+** V. Les ''Startsy''
+
+* '''Livre II : Une réunion déplacée'''
+** I. L’arrivée au monastère
+** II. Le vieux bouffon
+** III. Les femmes croyantes
+** IV. Une dame de peu de foi
+** V. Ainsi soit-il !
+** VI. Pourquoi un tel homme vit-il ?
+** VII. Le séminariste-arriviste
+** VIII. Un scandale
+
+* '''Livre III : Les luxurieux'''
+** I. Dans l’antichambre
+** II. Elisabeth Smerdiachtchaïa
+** III. Confession d’un cœur ardent. En vers
+** IV. Confession d’un cœur ardent. Par anecdotes
+** V. Confession d’un cœur ardent. La tête en bas
+** VI. Smerdiakov
+** VII. Une controverse
+** VIII. En dégustant le cognac
+** IX. Les luxurieux
+** X. Les deux ensemble
+** XI. Encore une réputation de perdue
+
+
+
+
+http://fr.wikipedia.org/wiki/Les_Frères_Karamazov
